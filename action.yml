@@ -1,6 +1,6 @@
 name: 'Send Telegram Messages'
 description: 'Send information to your Telegram via GitHub Actions script'
-author: 'ladjeek-actions'
+author: 'glahajeekn'
 branding:
   icon: 'send'
   color: 'blue'
