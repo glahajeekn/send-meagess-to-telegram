@@ -1,4 +1,4 @@
-name: 'Send Telegram Messages'
+name: 'Send Messages To Telegram'
 description: 'Send information to your Telegram via GitHub Actions script'
 author: 'glahajeekn'
 branding:
